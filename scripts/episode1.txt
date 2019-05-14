@@ -340,7 +340,7 @@ ROBERT: Who have we here? You must be Robb. (To Sansa) My, you’re a pretty one
 
 ARYA: Arya.
 
-ROBERT (to BRAN) Ooh. Show us your muscles. You’ll be a soldier.
+ROBERT (to BRAN): Ooh. Show us your muscles. You’ll be a soldier.
 
 [JAIME removes his helm.]
 
@@ -518,7 +518,7 @@ ILLYRIO: I take you for a king. Kings lack the caution of common men. My apologi
 
 VISERYS: I know how to play a man like Drogo. I give him a queen and he gives me an army.
 
-DAENERYS (pleadingly) I don’t want to be his queen. I want to go home.
+DAENERYS (pleadingly): I don’t want to be his queen. I want to go home.
 
 VISERYS: So do I. I want us both to go home. But they took it from us. So tell me, sweet sister, how do we go home?
 
@@ -634,7 +634,7 @@ ROBB: I’m good.
 
 [KING ROBERT gets even more bawdy with a wench.]
 
-CATELYN (in desperation) Is this your first time in the North, Your Grace?
+CATELYN (in desperation): Is this your first time in the North, Your Grace?
 
 CERSEI: Yes. Lovely country.
 
